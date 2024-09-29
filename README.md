@@ -40,24 +40,17 @@ O sistema funciona da seguinte forma:
 3. [Passo 3: Após o processamento dos PDF, efetuar a pergunta desejada e aguardar a resposta condizendo com os PDFs].
 
 
-# Resultados
-
-Os principais resultados da aplicação incluem:
-
-- [Descreva o primeiro resultado esperado, como: A aplicação retorna predições sobre o comportamento do mercado de ações com uma acurácia de 95%.]
-- [Descreva o segundo resultado: Automação de processos internos resultando em uma redução de 20% no tempo de processamento.]
-
 # Código-Fonte
 
-O código-fonte utilizado para o desenvolvimento deste projeto está organizado na pasta `\src`. Ele contém todos os scripts necessários para a execução e desenvolvimento da aplicação.
+O código-fonte utilizado para o desenvolvimento deste projeto contém todos os scripts necessários para a execução e desenvolvimento da aplicação.
 
-[Caminho para a pasta src](./src)
+(https://github.com/renandevbr/FIAPProjetoB3/blob/main/app.py))
 
 # Demonstração
 
 Veja o funcionamento da aplicação no vídeo a seguir:
 
-[![Demonstração do Projeto](https://www.youtube.com/watch?v=EXEMPLO](https://www.youtube.com/watch?v=hGaba4ybX2E))
+(https://www.youtube.com/watch?v=EXEMPLO](https://www.youtube.com/watch?v=hGaba4ybX2E)
 
 
 
