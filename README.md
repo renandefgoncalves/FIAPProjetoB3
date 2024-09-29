@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=hGaba4ybX2E
 
 ### Arquitetura
 
-A arquitetura da solução foi planejada utilizando o **Draw.io**, e o **Excel**, com componentes distribuídos para otimizar a eficiência e escalabilidade do sistema. A seguir, descrevemos a arquitetura visual:
+A arquitetura da solução foi planejada utilizando o **Draw.io**, e o **Excel**, com componentes distribuídos para otimizar a eficiência e escalabilidade do sistema. A seguir, descrevemos a arquitetura visual e consequentemente o FRONTEND da aplicação:
 
 ![Visual WebPage](https://i.postimg.cc/02dC6GnH/avcb.png)
 
@@ -44,13 +44,13 @@ O sistema funciona da seguinte forma:
 
 O código-fonte utilizado para o desenvolvimento deste projeto contém todos os scripts necessários para a execução e desenvolvimento da aplicação.
 
-(https://github.com/renandevbr/FIAPProjetoB3/blob/main/app.py))
+https://github.com/renandevbr/FIAPProjetoB3/blob/main/app.py
 
 # Demonstração
 
 Veja o funcionamento da aplicação no vídeo a seguir:
 
-(https://www.youtube.com/watch?v=EXEMPLO](https://www.youtube.com/watch?v=hGaba4ybX2E)
+![Visual Explicativo](https://www.youtube.com/watch?v=EXEMPLO](https://www.youtube.com/watch?v=hGaba4ybX2E)
 
 
 
