@@ -35,4 +35,15 @@ Veja o funcionamento da aplicação no vídeo a seguir:
 [Video Explicativo](https://www.youtube.com/watch?v=hGaba4ybX2E)
 
 ## Testes de Desempenho
+
+### Definição da Ferramenta de Teste
+Nós utilizamos a biblioteca do scikit-learn para calcular métricas como precisão, recall e F1-score, além da biblioteca time que mostra o tempo gasto na execução da tarefa (no nosso caso, da requisição da pergunta, até a resposta)
+
+### Evidências de Testes
 [Relatório de Desempenho](https://drive.google.com/file/d/1wNz_l0NSLuOIodhmTUl8jT0rtKq_HaD7/view?usp=sharing)
+
+### Discussão dos Resultados
+Os teste foram muito satisfatórios, pois, serviram pra identificar que o ChatGPT 4o mini, tem uma resposta muito mais rápida do que o ChatGPT 3.5, além de ter uma base maior e ser mais assertivo.
+
+### Soluções Futuras 
+Postetiormente, gostariamos de usar a biblioteca locust para verificar o uso em várias máquinas simultâneas, trazendo o resultado de carga.
