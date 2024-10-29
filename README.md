@@ -28,7 +28,7 @@ O sistema funciona da seguinte forma:
 
 ## Código-Fonte
 O código-fonte utilizado para o desenvolvimento deste projeto contém todos os scripts necessários para a execução e desenvolvimento da aplicação:
-[Link do Diretório com Todos Arquivos utilizados](https://drive.google.com/drive/folders/1Nvmlpqp2vKUZvPscPsSVNbItFhNr0vvC?usp=drive_link)
+[Link do Google Drive com Todos Arquivos utilizados](https://drive.google.com/drive/folders/1Nvmlpqp2vKUZvPscPsSVNbItFhNr0vvC?usp=drive_link)
 
 ## Demonstração
 Veja o funcionamento da aplicação no vídeo a seguir:
