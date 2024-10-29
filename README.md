@@ -6,12 +6,13 @@
 
 ## Introdução
 Este projeto foi desenvolvido com o objetivo de resolver um problema específico da B3 - A Bolsa do Brasil. A dor central que buscamos solucionar é construir um chatbot, usando LPN (Linguagem de Processamento Natural), para dinamizar 
-o site FundosNet [FundosNet](https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM) para que o usuário não precise buscar informações dentro de cada arquivo hospedado, mas sim efetuando perguntas de forma natural. Essa dificuldade impacta o usuário, que perde muito tempo buscando arquivos de forma não intuitiva, resultando em uma perda de tempo e falta de dinamismo.
+o site [FundosNet](https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM) para que o usuário não precise buscar informações dentro de cada arquivo hospedado, mas sim efetuando perguntas de forma natural. Essa dificuldade impacta o usuário, que perde muito tempo buscando arquivos de forma não intuitiva, resultando em uma perda de tempo e falta de dinamismo.
 
 O objetivo deste projeto é criar uma solução que torne prática a interatividade entre os arquivos hospedados dos Fundos de Investimento e o usuário final. Com isso, esperamos atingir uma diminuição no tempo perdido ao buscar informações pertinentes aos Fundos de Investimento, proporcionando uma melhoria visual, economia de tempo e praticidade.
 
 ## Desenvolvimento
 Abaixo o link com o vídeo explicativo do desenvolvimento do aplicativo, desde os primeiros contatos com a B3:
+<br>
 [Vídeo Explicativo](https://github.com/user-attachments/assets/981e31dc-891b-4271-a6d1-f4ef289ec2b4)
 
 ## Tecnologias Utilizadas
@@ -27,11 +28,11 @@ O sistema funciona da seguinte forma:
 
 ## Código-Fonte
 O código-fonte utilizado para o desenvolvimento deste projeto contém todos os scripts necessários para a execução e desenvolvimento da aplicação:
-[Código-Fonte](https://github.com/renandevbr/FIAPProjetoB3/blob/main/app.py)
+[Link do Diretório com Todos Arquivos utilizados](https://drive.google.com/drive/folders/1Nvmlpqp2vKUZvPscPsSVNbItFhNr0vvC?usp=drive_link)
 
 ## Demonstração
 Veja o funcionamento da aplicação no vídeo a seguir:
-[![Visual Explicativo](https://img.youtube.com/vi/hGaba4ybX2E/0.jpg)](https://www.youtube.com/watch?v=hGaba4ybX2E)
+[Video Explicativo](https://www.youtube.com/watch?v=hGaba4ybX2E)
 
 ## Testes de Desempenho
 [Relatório de Desempenho](https://drive.google.com/file/d/1wNz_l0NSLuOIodhmTUl8jT0rtKq_HaD7/view?usp=sharing)
