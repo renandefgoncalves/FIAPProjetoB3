@@ -3,29 +3,27 @@
 - Lancelot Chagas Rodrigues - RM554707
 - Pablo Menezes Barreto - RM556389
 - Renan de França Gonçalves - RM558413
+  
 
 ## Introdução
-Este projeto foi desenvolvido com o objetivo de resolver um problema específico da B3 - A Bolsa do Brasil. A dor central que buscamos solucionar é [construir um chatbot, usando LPN (Linguagem de Processamento Natural) para dinamizar 
-o site FundosNet https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM para que o usuário não precise buscar informações dentro de cada arquivo hospedado e sim efetuando perguntas de forma natural ]. Essa dificuldade impacta 
-[ao usuário que perde muito tempo buscando arquivos de forma não intuitiva], resultando em uma [perda de tempo e falta de dinamismo].
+Este projeto foi desenvolvido com o objetivo de resolver um problema específico da B3 - A Bolsa do Brasil. A dor central que buscamos solucionar é construir um chatbot, usando LPN (Linguagem de Processamento Natural) para dinamizar 
+o site FundosNet https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM para que o usuário não precise buscar informações dentro de cada arquivo hospedado e sim efetuando perguntas de forma natural. Essa dificuldade impacta ao usuário que perde muito tempo buscando arquivos de forma não intuitiva, resultando em uma perda de tempo e falta de dinamismo.
 
-O objetivo deste projeto é criar uma solução que [torne de forma prática a interatividade entre os arquivos hospedados dos Fundos de Investimento e o usuário final]. Com isso, esperamos atingir [uma diminuição no tempo perdido ao buscar informações pertinentes aos
+O objetivo deste projeto é criar uma solução que torne de forma prática a interatividade entre os arquivos hospedados dos Fundos de Investimento e o usuário final. Com isso, esperamos atingir [uma diminuição no tempo perdido ao buscar informações pertinentes aos
 Fundos de Investimento], proporcionando uma [melhoria visual, economia de tempo e praticidade].
 
 ## Desenvolvimento
 Abaixo o link com o vídeo explicativo do desenvolvimento do aplicativo, desde os primeiros contatos com a B3
-[![Video explicativo do Projeto](https://img.youtube.com/vi/ABC123456/0.jpg)](https://www.youtube.com/watch?v=ABC123456)
+https://github.com/user-attachments/assets/981e31dc-891b-4271-a6d1-f4ef289ec2b4
 
 
 
 ## Arquitetura
-
 A arquitetura da solução foi planejada utilizando o **Draw.io**, e o **Excel**, com componentes distribuídos para otimizar a eficiência e escalabilidade do sistema. A seguir, descrevemos a arquitetura visual e consequentemente o FRONTEND da aplicação:
 
 ![Visual WebPage](https://i.postimg.cc/02dC6GnH/avcb.png)
 
 ## Tecnologias Utilizadas
-
 A aplicação foi desenvolvida utilizando as seguintes tecnologias:
 - **Linguagens e Frameworks**: [Python com Flask].
 - **Bibliotecas**: [Langchain, ChromaDB, Selenium, PyPDF, BeautifulSoup e OpenAI].
